@@ -11,12 +11,13 @@
 - [ ] Goal 2
 - [ ] Goal 3
 -->
-- [x] Get my github stuff setup (eg. Repo, pages, dev log)
+- [x] Get my GitHub tasks setup (eg. Repo, pages, dev log)
+- [x] Complete the Studio Brainstorm
 
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  > I set up my github stugg <!--Your entry here or N/A if not applicable for this entry-->
+  > I set up my GitHub tasks and completed the studio brainstorm assignment <!--Your entry here or N/A if not applicable for this entry-->
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
   >  Was stuck in master branch of home directory <!--Your entry here or N/A if not applicable for this entry-->
@@ -30,7 +31,7 @@
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+>  N/A <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
