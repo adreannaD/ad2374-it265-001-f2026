@@ -1,4 +1,9 @@
-# Concept Pitch Cards
+---
+layout: default
+title: "IT265 Module 2: Concept Pitch Cards"
+---
+
+# IT265 Module 2: Concept Pitch Cards
 1. Working title: Speed Sorting  
    1. Player role and situation: You are racing against another player to sort a constantly changing set of cards based on their colors, numbers, symbols, or other characteristics.  
    2. Repeated decision or action: Quickly identify the current sorting rule, decide where each card belongs, and place it in the correct pile. The sorting rule can change during the game.  
