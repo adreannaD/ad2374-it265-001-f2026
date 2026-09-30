@@ -1,4 +1,9 @@
-# Workshop Idea Bank
+---
+layout: default
+title: "IT265 Module 2: Idea Bank"
+---
+
+# IT265 Module 2: Idea Bank
 1. Inspiration: Spit/Speed (card game)  
    1. Players have to quickly recognize possible moves and react before their opponent  
    2. Explore how speed, pressure, and quick choices could work in a different type of game  
