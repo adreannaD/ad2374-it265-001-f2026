@@ -1,5 +1,9 @@
-# Select and Scope a Concept
+---
+layout: default
+title: "IT265 Module 2: Select and Scope a Concept"
+---
 
+# IT265 Module 2: Select and Scope a Concept
 | Concept | Clear recurring decision? | Strongest appeal | Feasible first physical prototype? | Risk to test |
 | ----- | ----- | ----- | ----- | ----- |
 | Speed Sorting | Yes — identify the rule, decide where the card belongs, and sort it. | Fast reactions and adapting to changing rules. | Yes — can be tested with index cards and a few sorting rules. | The changing rules could become confusing or make the game feel repetitive. |
