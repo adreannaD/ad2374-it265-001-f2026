@@ -1,0 +1,1596 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [42. 667. 442.2999999999998408 654.] /Border [0 0 0] /A <</S /URI /URI (https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/ad2374) >> >>
+<</Type /Annot /Subtype /Link /Rect [42. 641. 478.0999999999996817 628.] /Border [0 0 0] /A <</S /URI /URI (https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/grading/ad2374) >> >>
+]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5545
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 19 Tf
+21.8499999999999979 TL
+0 g
+42. 748. Td
+(Case Study 1 - Atari) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+42. 724. Td
+(Student submission) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+42. 706. Td
+(Assignment revision: 5 | Maximum points: 10 | Student: ad2374 | Submitted:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+42. 694. Td
+(2026-10-12T17:47:17.917Z | Submission revision: 276 | Receipt:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+42. 682. Td
+(v4r_01M4RKKQ0YS0T8A2PAGW34WRCM | Exported: 2026-10-12T18:46:36.117Z) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0 g
+42. 670. Td
+(Worksheet link) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.294 0.588 rg
+42. 657. Td
+(https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/ad2374) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+42. 644. Td
+(Grading link) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.294 0.588 rg
+42. 631. Td
+(https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/grading/ad2374) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+42. 618. Td
+(AI disclosure: Completed; 1 entry; 0 declared AI use; 1 declared no AI use; policy v1) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 596. Td
+(Game Overview) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 571. Td
+(Game details) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 554. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 539. Td
+(Identify the game: title, developer, publisher, original platform, genre, and release date. Note) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 526. Td
+(the version you played if different.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 513. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 498. Td
+(Centipede was developed by Ed Logg and Dona Bailey and published by Atari, Inc. It was released in arcades on June) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 485. Td
+(30, 1981. The game is an action shooter in which players control a Bug Blaster to shoot a centipede and other insects) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 472. Td
+(while avoiding enemies. I played the online AARP version of Atari's Centipede through the AARP Games website,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 459. Td
+(rather than the original arcade cabinet. The original platform was the arcade, and the version I played was a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 446. Td
+(browser-based adaptation.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 433. Td
+(https://www.museumofplay.org/games/centipede/) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 420. Td
+(https://www.arcade-history.com/?id=427&n=centipede-upright-model&page=detail) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 392. Td
+(History and industry) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 375. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 360. Td
+(Explain the historical context of the release and where the game fit in the industry at that) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 347. Td
+(time.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 334. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 319. Td
+(Centipede was released during the golden age of arcade video games, a period when games such as Space Invaders) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 306. Td
+(\(1978\) and Pac-Man \(1980\) helped establish arcades as a major entertainment industry. Atari distinguished Centipede) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 293. Td
+(with its colorful insect theme, mushroom filled playfield, and trackball controls in the original arcade version. It became) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 280. Td
+(one of Atari's most commercially successful arcade games. Its accessible controls and distinctive visual design also) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 267. Td
+(helped it reach a broad audience during a period when arcade developers were exploring alternatives to traditional) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 254. Td
+(space themed shooters.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 241. Td
+(https://atari.com/pages/history) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 228. Td
+(https://www.museumofplay.org/games/centipede/) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 200. Td
+(Contemporary comparison) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 183. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 168. Td
+(Compare the game with a similar game from the same period, explaining a meaningful) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 155. Td
+(design similarity or difference.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 142. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 127. Td
+(Centipede can be compared with Space Invaders \(1978\), another influential arcade shooter. Both games require) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 114. Td
+(players to shoot approaching enemies while avoiding threats and trying to achieve a high score. However, Space) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 101. Td
+(Invaders features rows of aliens moving across the screen, while Centipede features a segmented enemy that changes) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 88. Td
+(direction when it encounters mushrooms. These obstacles make the environment affect enemy movement, requiring) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 75. Td
+(players to adjust their aim and positioning. This gives Centipede a more dynamic interaction between enemies and the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 62. Td
+(playfield while preserving the straightforward action of an arcade shooter.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 1 of 4) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 4969
+>>
+stream
+0.200025 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 748. Td
+(https://www.museumofplay.org/games/centipede/) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 735. Td
+(https://www.museumofplay.org/games/space-invaders/) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 707. Td
+(Gameplay Mechanics And Level Design) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 682. Td
+(Core gameplay mechanics) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 665. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 650. Td
+(Explain how the core actions and rules shape a recurring player decision. Support the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 637. Td
+(explanation with a gameplay example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 624. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 609. Td
+(The core mechanics of Centipede create a recurring decision between attacking enemies and positioning the shooter) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 596. Td
+(safely. The player moves along the bottom of the screen and fires upward, while the centipede changes direction when) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 583. Td
+(it encounters mushrooms. Shooting a segment can create another mushroom and split the centipede into separate) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 570. Td
+(sections. For example, shooting the middle of a centipede can leave two groups approaching from different directions.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 557. Td
+(The player must decide where to aim and when to reposition instead of firing without considering the consequences.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 544. Td
+(This creates a balance between offense, positioning, and survival.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 531. Td
+(https://www.museumofplay.org/games/centipede/) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 503. Td
+(Level design) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 486. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 471. Td
+(Explain how the layout, obstacles, or progression affect a player decision or challenge. Use) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 458. Td
+(a specific example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 445. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 430. Td
+(Centipede uses a fixed screen filled with mushrooms that function as obstacles and influence enemy movement. When) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 417. Td
+(the centipede encounters a mushroom, it changes direction and eventually moves farther down the screen. For) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 404. Td
+(example, a dense cluster of mushrooms can cause the centipede to reverse direction repeatedly, making its path harder) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 391. Td
+(to predict. The player must track these changes while watching for other insects that can enter the playfield. As the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 378. Td
+(game progresses, faster movement and additional threats increase difficulty. This design makes the player manage both) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 365. Td
+(enemy behavior and the limited space available for movement.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 352. Td
+(https://www.museumofplay.org/games/centipede/) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 324. Td
+(Graphic And Audio Design) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 299. Td
+(Visual design) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 282. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 267. Td
+(Explain how a visual design choice affects the experience or communicates information) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 254. Td
+(during play. Use a specific example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 241. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 226. Td
+(Centipede uses colorful graphics and distinct enemy shapes to make the action easier to follow. The centipede's) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 213. Td
+(connected segments communicate its direction, while mushrooms are visually distinct obstacles. Spiders, fleas, and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 200. Td
+(scorpions also have different appearances that help players recognize additional threats. For example, the scorpion can) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 187. Td
+(be identified as it moves across the playfield and poisons mushrooms, changing how those obstacles affect the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 174. Td
+(centipede. The bright colors and unusual garden setting also give the game a distinctive appearance compared with the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 161. Td
+(darker, space themed shooters popular at the time.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 148. Td
+(https://www.museumofplay.org/games/centipede/) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 135. Td
+(https://spectrum.ieee.org/centipede-game) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 107. Td
+(Sound design) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 2 of 4) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 5706
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 748. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 733. Td
+(Explain how music, sound effects, or their absence affect the experience or communicate) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 720. Td
+(information during play. Use a specific example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 707. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 692. Td
+(The original arcade version of Centipede uses electronic sound effects to reinforce the action and create tension. Firing) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 679. Td
+(sounds provide feedback when the player shoots, while other effects accompany enemies and gameplay events. For) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 666. Td
+(example, when several insects approach the player's position, the combination of movement and firing sounds can) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 653. Td
+(make the action feel more urgent. Sound supports the game's fast-paced arcade experience rather than communicating) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 640. Td
+(a detailed story through dialogue or music. The browser version may reproduce or modify the original audio so its) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 627. Td
+(specific sound effects should be considered separately from the arcade version.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 614. Td
+(https://spectrum.ieee.org/centipede-game) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 586. Td
+(Narrative And Storytelling) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 561. Td
+(Narrative and setting) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 544. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 529. Td
+(Explain how the setting and story relate to play. Describe key events if present, or explain) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 516. Td
+(the effect of a limited or absent story.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 503. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 488. Td
+(Centipede has a minimal narrative, with no substantial plot, dialogue, or story progression. The player defends against) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 475. Td
+(insects in a stylized garden, with the mushrooms and insect enemies forming the game's setting. This setting directly) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 462. Td
+(supports the gameplay because mushrooms change the centipede's movement, while spiders, fleas, and scorpions) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 449. Td
+(create additional threats. The player does not need to learn a complicated backstory to understand the objective of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 436. Td
+(surviving and scoring points. The limited narrative keeps attention on the arcade action and makes the environment a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 423. Td
+(functional part of the mechanics rather than a separate storytelling experience.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 410. Td
+(https://www.museumofplay.org/games/centipede/) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 397. Td
+(https://atari.com/pages/centipede-was-one-of-the-first-with-a-significant-female-player-base) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 369. Td
+(Character development) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 352. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 337. Td
+(Explain how character development relates to gameplay, or how limited or absent) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 324. Td
+(development affects the experience.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 311. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 296. Td
+(Character development is basically absent from Centipede. The player controls a shooter, but the game does not) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 283. Td
+(develop its personality, background, or personal goals through a story. The centipede and other insects function) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 270. Td
+(primarily as gameplay threats rather than characters with individual motivations or character arcs. Instead of following a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 257. Td
+(character's growth, players improve through practice, learning enemy movement, aiming more accurately, and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 244. Td
+(positioning themselves more effectively. This lack of character development suits the arcade format because players) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 231. Td
+(can understand the objective immediately and focus on improving their performance.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 218. Td
+(https://www.museumofplay.org/games/centipede/) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 190. Td
+(Impact And Reception) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 165. Td
+(Reception) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 148. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 133. Td
+(Summarize the critical and player reception using identifiable reviews or feedback.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 120. Td
+(Distinguish release-era reception from later reactions.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 107. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 92. Td
+(Centipede became one of Atari's most commercially successful arcade games during the early 1980's. A contemporary) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 79. Td
+(1983 review in Video magazine praised the arcade game's popularity and easy to use trackball controls, providing) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 66. Td
+(evidence of its positive release era reputation. Later reception has also been positive: the game was inducted into the) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 3 of 4) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 6059
+>>
+stream
+0.200025 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 748. Td
+(World Video Game Hall of Fame in 2020. These sources represent different forms of reception: the contemporary) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 735. Td
+(review reflects opinions close to the games original release, while the later induction recognizes its lasting historical) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 722. Td
+(significance. The evidence suggests that its accessible controls and distinctive gameplay helped it remain memorable) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 709. Td
+(long after its arcade debut.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 696. Td
+(https://www.ataricompendium.com/archives/magazines/video_review/video_review_apr83.pdf) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 683. Td
+(https://www.museumofplay.org/games/centipede/) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 655. Td
+(Industry and cultural impact) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 638. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 623. Td
+(Explain the game's industry impact and cultural significance using research. Avoid claiming) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 610. Td
+(influence that the sources do not establish.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 597. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 582. Td
+(Centipede contributed to the success of arcade gaming during the industry's golden age and became one of Atari's best) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 569. Td
+(selling arcade titles. It was also notable for being co-designed by Dona Bailey, one of the few women working in arcade) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 556. Td
+(game development at the time. Its bright colors, garden setting, and trackball controls helped distinguish it from many) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 543. Td
+(contemporary shooters. Historical accounts identify Centipede as one of the early arcade games to attract a significant) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 530. Td
+(female player base, although this does not mean that all women preferred its design. Its induction into the World Video) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 517. Td
+(Game Hall of Fame in 2020 demonstrates its lasting recognition as an important part of video game history.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 504. Td
+(https://atari.com/pages/centipede-was-one-of-the-first-with-a-significant-female-player-base) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 491. Td
+(https://spectrum.ieee.org/centipede-game) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 478. Td
+(https://www.museumofplay.org/games/centipede/) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 450. Td
+(Reflection) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 425. Td
+(Fun and experience) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 408. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 393. Td
+(Explain what made the game enjoyable or frustrating for you, using a gameplay example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 380. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 365. Td
+(I chose Centipede for this case study because I have played it many times in the past and have always enjoyed its) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 352. Td
+(straightforward but challenging gameplay. My familiarity with the game made it interesting to analyze how its mechanics) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 339. Td
+(create a recurring challenge. For example, when the centipede splits into multiple sections, I have to adjust my aim and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 326. Td
+(watch for threats approaching the bottom of the screen. Successfully destroying enemies is satisfying because it) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 313. Td
+(requires quick reactions and good positioning. However, the increasing speed and number of enemies can become) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 300. Td
+(frustrating when several threats approach at once. Revisiting a game I already enjoyed allowed me to look beyond the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 287. Td
+(fun and better understand how its mechanics, level design, and difficulty contribute to the overall experience.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 274. Td
+(https://www.museumofplay.org/games/centipede/) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 246. Td
+(Learning and research) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 229. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 214. Td
+(Reflect on what this case study taught you and how easy or difficult it was to find) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 201. Td
+(dependable information.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 188. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 173. Td
+(This case study taught me that a game with simple rules can still create complex decisions through its mechanics and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 160. Td
+(level design. In Centipede, mushrooms are not just decoration because they can change enemy movement, while) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 147. Td
+(shooting centipede segments can create new obstacles and additional threats. I also learned that visual design, sound) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 134. Td
+(effects, and limited narrative can all support a game's main objective. Researching the game's history showed me the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 121. Td
+(importance of distinguishing the original arcade release from later versions and separating contemporary reviews from) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 108. Td
+(modern historical assessments. Information about its mechanics and historical significance was relatively easy to find,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 95. Td
+(but determining which sources were reliable and which claims they supported required more care.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 82. Td
+(https://www.museumofplay.org/games/centipede/) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 69. Td
+(https://spectrum.ieee.org/centipede-game) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 4 of 4) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R ]
+/Count 4
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 11 0 R
+/F2 12 0 R
+/F3 13 0 R
+/F4 14 0 R
+/F5 15 0 R
+/F6 16 0 R
+/F7 17 0 R
+/F8 18 0 R
+/F9 19 0 R
+/F10 20 0 R
+/F11 21 0 R
+/F12 22 0 R
+/F13 23 0 R
+/F14 24 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+25 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20261012134636-05'00')
+>>
+endobj
+26 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 27
+0000000000 65535 f 
+0000023350 00000 n 
+0000025190 00000 n 
+0000000015 00000 n 
+0000000546 00000 n 
+0000006143 00000 n 
+0000006248 00000 n 
+0000011269 00000 n 
+0000011374 00000 n 
+0000017132 00000 n 
+0000017238 00000 n 
+0000023425 00000 n 
+0000023551 00000 n 
+0000023682 00000 n 
+0000023816 00000 n 
+0000023954 00000 n 
+0000024078 00000 n 
+0000024207 00000 n 
+0000024339 00000 n 
+0000024475 00000 n 
+0000024603 00000 n 
+0000024730 00000 n 
+0000024859 00000 n 
+0000024992 00000 n 
+0000025094 00000 n 
+0000025443 00000 n 
+0000025529 00000 n 
+trailer
+<<
+/Size 27
+/Root 26 0 R
+/Info 25 0 R
+/ID [ <244AAE6A3E5F1A5A5E98E8F411619EC6> <244AAE6A3E5F1A5A5E98E8F411619EC6> ]
+>>
+startxref
+25633
+%%EOF
